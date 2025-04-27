@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepesh Patel!
 
-🚀 **Full Stack Developer** | React | Django | JavaScript | Python
+🚀 **Full Stack Developer** | React | java | JavaScript | Python
 
 ---
 
