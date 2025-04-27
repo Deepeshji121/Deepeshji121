@@ -9,7 +9,7 @@
 📍 Based in Jabalpur, MP
 📧 Reach me at: dp001087478@techmahindra.com
 🏆 Work Experience
-🚀 Tech Mahindra Pvt. Ltd. (Dec 2024 - Present)
+🚀 Tech Mahindra Pvt. Ltd. (Dec 2024 - Present) 
 🛠 Projects
 💬 Messaging App | GitHub | Live
 
