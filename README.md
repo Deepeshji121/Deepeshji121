@@ -17,7 +17,7 @@
 ## 🏆 Work Experience
 
 ### 🚀 Tech Mahindra Pvt. Ltd. 
-**(Dec 2024 - Present)**  
+  **(Dec 2024 - Present)**  
 - Contributed to building and maintaining large-scale web applications.
 - Collaborated with cross-functional teams to deliver high-quality software solutions.
 
